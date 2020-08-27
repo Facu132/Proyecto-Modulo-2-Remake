@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Proyecto-Modulo-2-Remake/static/css/main.84facf53.chunk.css",
+    "main.js": "/Proyecto-Modulo-2-Remake/static/js/main.a93f1cb4.chunk.js",
+    "main.js.map": "/Proyecto-Modulo-2-Remake/static/js/main.a93f1cb4.chunk.js.map",
+    "runtime-main.js": "/Proyecto-Modulo-2-Remake/static/js/runtime-main.ffd1e0df.js",
+    "runtime-main.js.map": "/Proyecto-Modulo-2-Remake/static/js/runtime-main.ffd1e0df.js.map",
+    "static/js/2.134ef490.chunk.js": "/Proyecto-Modulo-2-Remake/static/js/2.134ef490.chunk.js",
+    "static/js/2.134ef490.chunk.js.map": "/Proyecto-Modulo-2-Remake/static/js/2.134ef490.chunk.js.map",
+    "index.html": "/Proyecto-Modulo-2-Remake/index.html",
+    "precache-manifest.a2ceb05a35d0f01bc9b6c146ca1a35d5.js": "/Proyecto-Modulo-2-Remake/precache-manifest.a2ceb05a35d0f01bc9b6c146ca1a35d5.js",
+    "service-worker.js": "/Proyecto-Modulo-2-Remake/service-worker.js",
+    "static/css/main.84facf53.chunk.css.map": "/Proyecto-Modulo-2-Remake/static/css/main.84facf53.chunk.css.map",
+    "static/js/2.134ef490.chunk.js.LICENSE.txt": "/Proyecto-Modulo-2-Remake/static/js/2.134ef490.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ffd1e0df.js",
+    "static/js/2.134ef490.chunk.js",
+    "static/css/main.84facf53.chunk.css",
+    "static/js/main.a93f1cb4.chunk.js"
+  ]
+}
